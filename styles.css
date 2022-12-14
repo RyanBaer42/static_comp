@@ -1,0 +1,55 @@
+* {
+    font-family: 'Lato', sans-serif;;
+}
+
+body {
+    margin: 0;
+}
+
+.top-area {
+    height: 25vh;
+    background-color: #002f47;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link-nav {
+    display: flex;
+    margin-left: 2vw;
+    margin-top: 10vh;
+}
+
+.single-link {
+    display: flex;
+    align-items: center;
+    margin-right: 40px;
+    gap: 5px;
+}
+
+.nav-text {
+    font-size: 1.5vw;
+    margin: 0;
+}
+
+.nav-image {
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+}
+
+.mountain-text {
+    color: #ccd5da;
+}
+
+.rental-text,.lodging-text {
+    color: #99abb5;
+}
+
+.mountain-icon {
+    background-color: #ccd5da;
+}
+
+.rental-icon, .lodging-icon {
+    background-color: #99abb5;
+}
