@@ -38,7 +38,7 @@ body {
 }
 
 .mountain-text {
-    color: #ccd5da;
+    color: aliceblue;
 }
 
 .rental-text,.lodging-text {
@@ -46,7 +46,7 @@ body {
 }
 
 .mountain-icon {
-    background-color: #ccd5da;
+    background-color: aliceblue;
 }
 
 .rental-icon, .lodging-icon {
@@ -69,7 +69,7 @@ body {
 
 .user-name {
     margin: 0;
-    color: #ccd5da;
+    color: aliceblue;
     font-size: larger;
     margin-right: 10px;
 }
@@ -91,7 +91,7 @@ body {
 }
 
 .logo-text {
-    color: #ccd5da;
+    color: aliceblue;
     font-size:xx-large;
     margin-bottom: 2vh;
     margin-right: 1vw;
@@ -129,20 +129,25 @@ body {
     width: 23vw;
     height: 58vh;
     background-color: aliceblue;
+    margin-bottom: 2vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .mountain-header {
     height: 35%;
-    border: 1px solid blue;
+    width: 100%;
     display: flex;
     justify-content: space-between;
+    border-bottom: 1px solid #002f47;
 }
 
 .mountain-logo {
     background-color: aliceblue;
-    height: 60%;
+    height: 50%;
     width: 20%;
-    border-radius: 50%;
+    margin-left: 1vw;
 }
 
 .snowfall-metrics {
@@ -161,7 +166,114 @@ body {
 .snowfall-number {
     margin: 0;
     font-size: xx-large;
+    color: #002f47;
 }
 
+.mountain-name-section {
+    height: 15%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-top: 2vh;
+    margin-left: 2vw;
+}
 
+.mountain-name {
+    margin: 0;
+    color: #002f47;
+    font-size: large;
+}
 
+.time-stamp {
+    margin: 0;
+    color: #668290;
+    font-size: small;
+}
+
+.website-link-section {
+    height: 10%;
+    background-color: #ccd5da;
+    width: 90%;
+    display: flex;
+    align-items: center;
+    border-radius: 2px;
+}
+
+.website-link {
+    font-size: small;
+    margin-left: 1vw;
+}
+
+.vertical-feet-section {
+    height: 15%;
+    width: 100%;
+    margin-left: 2vw;
+}
+
+.vertical-feet {
+    margin-bottom: 0;
+    font-size: small;
+}
+
+.vertical-feet-number {
+    margin-top: 0;
+    font-size: larger;
+}
+
+.visits-section {
+    height: 20%;
+    width: 100%;
+    margin-left: 2vw;
+    padding-top: 1vh;
+}
+
+.visits-title {
+    margin: 0;
+}
+
+.visits-number {
+    margin: 0;
+    font-size: x-large;
+    color: #32586b;
+}
+
+.mountain-header-1 {
+    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/pexels-visit-almaty-848595.jpg");
+    background-size: cover;
+}
+
+.mountain-header-2 {
+    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/winterparkbackground.jpg");
+    background-size: cover;
+}
+
+.mountain-header-3 {
+    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/keystonebackground.jpg");
+    background-size: cover;
+}
+
+.mountain-header-4 {
+    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/copperbackground.jpg");
+    background-size: cover;
+}
+
+.mountain-header-5 {
+    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/steamboatbackground.jpg");
+    background-size: cover;
+}
+
+.mountain-header-6 {
+    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/breckenridgebackground.jpg");
+    background-size: cover;
+}
+
+.mountain-header-7 {
+    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/aspenbackground.jpg");
+    background-size: cover;
+}
+
+.mountain-header-8 {
+    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/vailbackground.jpg");
+    background-size: cover;
+}
