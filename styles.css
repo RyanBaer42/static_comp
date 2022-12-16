@@ -145,9 +145,8 @@ body {
 
 .mountain-logo {
     background-color: aliceblue;
-    height: 50%;
-    width: 20%;
-    margin-left: 1vw;
+    height: 80%;
+    width: 60%;
 }
 
 .snowfall-metrics {
@@ -209,6 +208,7 @@ body {
     height: 15%;
     width: 100%;
     margin-left: 2vw;
+    margin-top: 1vh;
 }
 
 .vertical-feet {
@@ -239,41 +239,75 @@ body {
 }
 
 .mountain-header-1 {
-    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/pexels-visit-almaty-848595.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/pexels-visit-almaty-848595.jpg");
     background-size: cover;
 }
 
 .mountain-header-2 {
-    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/winterparkbackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/winterparkbackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-3 {
-    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/keystonebackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/keystonebackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-4 {
-    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/copperbackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/copperbackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-5 {
-    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/steamboatbackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/steamboatbackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-6 {
-    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/breckenridgebackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/breckenridgebackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-7 {
-    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/aspenbackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/aspenbackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-8 {
-    background-image: linear-gradient(rgba(255,255,255,0.25), rgba(255,255,255,0.25)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/vailbackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/vailbackground.jpg");
     background-size: cover;
+}
+
+.logo-background {
+    background-color: aliceblue;
+    height: 47%;
+    width: 22%;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1vw;
+    margin-top: 2vh;
+}
+
+.mountain-logo-5 {
+    width: 80%;
+    border-radius: 30%;
+}
+
+.mountain-logo-6 {
+    height: 90%;
+    width: 70%;
+    border-radius: 30%;
+}
+
+.mountain-logo-7 {
+    height: 90%;
+    width: 90%;
+    border-radius: 40%;
+}
+
+.mountain-logo-8 {
+    width: 80%;
+    border-radius: 40%;
 }
