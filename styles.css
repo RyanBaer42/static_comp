@@ -239,42 +239,42 @@ body {
 }
 
 .mountain-header-1 {
-    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/pexels-visit-almaty-848595.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("./Images/pexels-visit-almaty-848595.jpg");
     background-size: cover;
 }
 
 .mountain-header-2 {
-    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/winterparkbackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("./Images/winterparkbackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-3 {
-    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/keystonebackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("./Images/keystonebackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-4 {
-    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/copperbackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("./Images/copperbackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-5 {
-    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/steamboatbackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("./Images/steamboatbackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-6 {
-    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/breckenridgebackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("./Images/breckenridgebackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-7 {
-    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/aspenbackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("./Images/aspenbackground.jpg");
     background-size: cover;
 }
 
 .mountain-header-8 {
-    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Users/ryanbaer/home/2mod/projects/static_comp/Images/vailbackground.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("./Images/vailbackground.jpg");
     background-size: cover;
 }
 
