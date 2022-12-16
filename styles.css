@@ -239,7 +239,7 @@ body {
 }
 
 .mountain-header-1 {
-    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("./Images/pexels-visit-almaty-848595.jpg");
+    background-image: linear-gradient(rgba(255,255,255,0.35), rgba(255,255,255,0.35)),url("/Images/pexels-visit-almaty-848595.jpg");
     background-size: cover;
 }
 
